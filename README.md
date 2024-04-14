@@ -100,7 +100,7 @@ npm run dev
 3. **Chat Setup:**
 
   ```bash
-  cd chat
+  cd Chat
   ```
 
 ```bash
