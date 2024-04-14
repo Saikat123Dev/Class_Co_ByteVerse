@@ -59,7 +59,7 @@ In summary, the Smart Education Web Platform aims to revolutionize education by 
 
 ---
 
-Feel free to adjust the formatting as needed!
+
 
 #### Installation Steps:
 
