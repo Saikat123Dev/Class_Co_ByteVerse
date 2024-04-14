@@ -100,7 +100,6 @@ nodemon
 
 - **Real-time Communication:** Socket.IO
 
-- **Socket.IO:** A library that enables real-time, bidirectional, and event-based communication between web clients and servers.
 
   
 
@@ -157,4 +156,4 @@ nodemon
 - **nodemailer:** A module for Node.js applications to allow easy email sending.
 
 - **nodemon:** A tool that helps develop Node.js based applications by automatically restarting the node application when file changes in the directory are detected.
-- **socket.io:** A module for real-time communication with a bidirectional communication .
+- **Socket.IO:** A library that enables real-time, bidirectional, and event-based communication between web clients and servers.
